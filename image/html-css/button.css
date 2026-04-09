@@ -1,0 +1,59 @@
+
+ p {
+    font-family: roboto;
+  }
+.vdieo-title {
+font-family: Arial;
+font-weight: bold;
+font-size: 20px;
+width: 340px;
+line-height: 24px;
+margin-bottom: 5px;
+
+}
+.vdieo-state {
+  font-family: roboto;
+  font-size: 14px;
+  color: rgb(97, 97, 97);
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.vdieo-autour {
+  font-family: roboto;
+   color: rgb(97, 97, 97);
+   font-size: 14px;
+   margin-top: 20px;
+   margin-bottom: 0;
+
+}
+.vdieo-description {
+  font-family: arial;
+   color: rgb(97, 97, 97);
+   font-size: 14px;
+   width: 300px;
+   line-height: 20px;
+   margin-top: 20px;
+   margin-bottom: 100px;
+
+
+}
+.aple-text {
+  margin-bottom: 50px;
+  font-family: arial;
+  font-size: 14px;
+  background-color:rgb(277, 65, 64);
+  color: white;
+  text-align:center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  width: 500px;
+
+}
+.shop-link {
+  cursor: pointer;
+  margin-left: 20px `;
+
+}
+.shop-link:hover {
+  text-decoration:underline;
+}

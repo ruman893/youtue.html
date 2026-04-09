@@ -1,0 +1,80 @@
+.tumbnails-1 {
+  width: 100%;
+  
+}
+.tumbnails-2 {
+  width:100%;
+ 
+ 
+  
+  
+ 
+  
+}
+
+.vdieo-title {
+  margin-top: 0;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 12px;
+  width: 270px;
+}
+
+.vdieo-title2 {
+  width: 240px;
+   margin-top: 0;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 12px;
+  
+  
+  
+}
+
+
+ .vdieo-preview {
+   
+  
+  
+  
+  }
+  .vdieo-info-grid {
+    display: grid;
+    grid-template-columns: 50px 1fr;
+
+  }
+  
+  .vdieo-info {
+    
+    width: 246px;
+   
+  }
+  .profile-pic {
+    width: 40px;
+    border-radius: 50px;
+    
+    
+  }
+  .profile-pic2 {
+    width: 40px;
+    border-radius: 48px;
+  }
+  .thumbnail-row {
+    margin-bottom: 12px;
+  }
+  .vdieo-authour,.vdieo-state {
+  font-size: 12px;
+  color: rgb(96, 96,96);
+  }
+  .vdieo-authour {
+    margin-bottom: 4px;
+  }
+  .vdieo-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap: 40px;
+  }
+ </style>
